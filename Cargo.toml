@@ -1,0 +1,19 @@
+[package]
+name = "msvc_def"
+description = "Library for reading Microsoft Module Definition (.def) files."
+repository = "https://www.github.com/gtker/msvc_def"
+license = "MIT OR Apache-2.0"
+version = "0.1.0"
+edition = "2021"
+keywords = ["msvc", "module-file", "def", "linker", "microsoft"]
+categories = ["no-std", "no-std::no-alloc", "parser-implementations", "config"]
+readme = "README.md"
+authors = ["Gtker <github@gtker.com"]
+rust-version = "1.65.0"
+
+exclude = [".github", "release.toml", "pre-release.sh"]
+
+[features]
+default = ["std"]
+std = ["alloc"]
+alloc = []
