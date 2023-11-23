@@ -12,4 +12,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Initial release
 
 <!-- next-url -->
-[Unreleased]: https://github.com/gtker/msvc_def/compare/39f5ef7ce9e17dd85381b2c48c06b174777469c1...HEAD
+[Unreleased]: https://github.com/gtker/msvc_def/compare/d09c13d8c1529ff777e64ee90b51c9617396e93c...HEAD
